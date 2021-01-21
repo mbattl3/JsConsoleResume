@@ -9,13 +9,21 @@ When you open index.html in the browser, it will be a blank page. That's okay. Y
 Your resume should display the following information:
 
 Your name
+
 Your career/field
+
 A short description of yourself
+
 A list of your interests
+
 A list of your past positions that includes company/place name, title, short description of what you did
+
 A list of your skills
+
 You can make up information if you'd like
+
 In your skill list, skills that are "cool" should begin with BAM:
+
 
 Additional Requirements
 
