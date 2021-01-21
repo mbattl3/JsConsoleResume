@@ -21,3 +21,30 @@ Your name should print in all capital letters, but you must not type it as all c
 You must have a function called displayPosition that takes parameters for company name, job title, and description. The function should console.log those three items in a format similar to the entries in the "My Previous Experience" section of the example below. You will call displayPosition several times with different data to create each entry for the "My Previous Experience" section.
 You must have a function called displaySkill that takes parameters for skill name and a boolean value for whether the skill is cool (true/false). Inside the function, you should print BAM: in front of the skill name only if the skill is cool. If you don't have any cool skills, make some up. Use this function to display each entry in the "My Skills" section.
 
+----------------------------------------------------------------------------------------------------------------------------------
+
+Name: JOHN DOE
+Career: Full Stack Engineer / Instructor
+Description: I like turtles
+
+My Interests:
+* Fall TV (The best)
+* Locomotives
+* Observing awkward situations
+* Film soundtracks
+
+My Previous Experience:
+* Math, Chemistry, Physics, Biology, and English tutor at Some School - Tutored students in those areas.
+* Undergraduate Teaching Assistant at University of Georgia - Helped grade assignments, answer questions, held lab hours, and held office hours for Java and C++ Computer Science classes.
+* Lead Programmer for iBeacon Experiment at Georgia Museum of Art - Created native iOS virtual tour guide that used iBeacon technology to triangulate position within the museum and give information about a piece.
+
+My Skills:
+* French
+* BAM: Trombone
+* Java
+* C / C++
+* BAM: Objective-C / Swift
+* BAM: Opera Singing
+* Python
+* JavaScript
+* BAM: TypeScript
